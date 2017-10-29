@@ -1,0 +1,10 @@
+c:\users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
+c:\users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.Resources.resources
+c:\users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.config
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.pdb
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.xml
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.xml
+c:\Users\rupert.obkircher\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.pdb

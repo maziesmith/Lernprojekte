@@ -1,0 +1,6 @@
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\bin\Debug\Linq_einfache_Gruppierung.exe.config
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\bin\Debug\Linq_einfache_Gruppierung.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\bin\Debug\Linq_einfache_Gruppierung.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\obj\Debug\Linq_einfache_Gruppierung.csprojResolveAssemblyReference.cache
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\obj\Debug\Linq_einfache_Gruppierung.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_einfache_Gruppierung\Linq_einfache_Gruppierung\obj\Debug\Linq_einfache_Gruppierung.pdb

@@ -1,0 +1,6 @@
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\bin\Debug\Linq_delegate.exe.config
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\bin\Debug\Linq_delegate.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\bin\Debug\Linq_delegate.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\obj\Debug\Linq_delegate.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\obj\Debug\Linq_delegate.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\Linq_delegate\Linq_delegate\obj\Debug\Linq_delegate.csprojResolveAssemblyReference.cache

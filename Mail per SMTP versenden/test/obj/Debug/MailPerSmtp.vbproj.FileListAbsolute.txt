@@ -1,0 +1,11 @@
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\bin\Debug\test.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\bin\Debug\test.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\bin\Debug\test.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\bin\Debug\test.xml
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\MailPerSmtp.vbprojResolveAssemblyReference.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\test.Resources.resources
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\MailPerSmtp.vbproj.GenerateResource.Cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\MailPerSmtp.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\test.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\test.xml
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\Mail per SMTP versenden\test\obj\Debug\test.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\ocr.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\ocr.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\ocr.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\IronOcr.dll
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\IronOcr.xml
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\obj\Debug\ocr.csprojResolveAssemblyReference.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\obj\Debug\ocr.csproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\obj\Debug\ocr.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\obj\Debug\ocr.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\IronOcr.German.dll
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\ocr\ocr\bin\Debug\IronOcr.German.xml

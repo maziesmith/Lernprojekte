@@ -1,0 +1,7 @@
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\bin\Debug\linq2xml.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\bin\Debug\linq2xml.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\bin\Debug\linq2xml.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\obj\Debug\linq2xml.csprojResolveAssemblyReference.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\obj\Debug\linq2xml.csproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\obj\Debug\linq2xml.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2xml\linq2xml\obj\Debug\linq2xml.pdb

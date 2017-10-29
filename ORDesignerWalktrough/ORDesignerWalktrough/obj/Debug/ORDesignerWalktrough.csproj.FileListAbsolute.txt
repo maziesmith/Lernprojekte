@@ -1,0 +1,10 @@
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\bin\Debug\ORDesignerWalktrough.exe.config
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\bin\Debug\ORDesignerWalktrough.exe
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\bin\Debug\ORDesignerWalktrough.pdb
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.csprojResolveAssemblyReference.cache
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.Properties.Resources.resources
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.csproj.GenerateResource.Cache
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.csproj.CoreCompileInputs.cache
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.exe
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.pdb
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen\ORDesignerWalktrough\ORDesignerWalktrough\obj\Debug\ORDesignerWalktrough.Form1.resources

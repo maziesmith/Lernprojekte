@@ -1,0 +1,14 @@
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\bin\Debug\linq2sql.exe.config
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\bin\Debug\linq2sql.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\bin\Debug\linq2sql.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\obj\Debug\linq2sql.csprojResolveAssemblyReference.cache
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\obj\Debug\linq2sql.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\obj\Debug\linq2sql.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\linq2sql\linq2sql\obj\Debug\linq2sql.csproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\bin\Debug\linq2sql.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\bin\Debug\linq2sql.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\bin\Debug\linq2sql.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\obj\Debug\linq2sql.csprojResolveAssemblyReference.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\obj\Debug\linq2sql.csproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\obj\Debug\linq2sql.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Lernprojekte\linq2sql\linq2sql\obj\Debug\linq2sql.pdb

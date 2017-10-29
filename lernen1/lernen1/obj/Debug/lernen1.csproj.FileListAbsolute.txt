@@ -1,0 +1,6 @@
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\obj\Debug\lernen1.csprojResolveAssemblyReference.cache
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\bin\Debug\lernen1.exe.config
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\bin\Debug\lernen1.exe
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\bin\Debug\lernen1.pdb
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\obj\Debug\lernen1.exe
+D:\Daten\Dokumente\Visual Studio 2017\Projects\lernen1\lernen1\obj\Debug\lernen1.pdb

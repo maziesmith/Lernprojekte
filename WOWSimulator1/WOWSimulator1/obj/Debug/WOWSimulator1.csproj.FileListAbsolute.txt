@@ -1,0 +1,6 @@
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\obj\Debug\WOWSimulator1.csprojResolveAssemblyReference.cache
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\bin\Debug\WOWSimulator1.exe.config
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\bin\Debug\WOWSimulator1.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\bin\Debug\WOWSimulator1.pdb
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\obj\Debug\WOWSimulator1.exe
+d:\daten\rupi\dokumente\visual studio 2017\Projects\WOWSimulator1\WOWSimulator1\obj\Debug\WOWSimulator1.pdb
